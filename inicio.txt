@@ -1,0 +1,5 @@
+npx create-expo-app pomodoro 
+
+npx expo start
+
+npx expo install expo-av
